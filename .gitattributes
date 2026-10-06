@@ -1,0 +1,3 @@
+# Store every file byte-for-byte. The game reads these files as-is,
+# so line endings and BOMs must not be normalized.
+* -text
