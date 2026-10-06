@@ -1,6 +1,6 @@
 BlizzlessLikeMod (extended edition)
 ---
-Версия: 1.0
+Версия: 1.0.1
 ---
 Установка:
 1. Кидаем папку mods рядом с D2R.exe.
@@ -16,12 +16,12 @@ BlizzlessLikeMod (extended edition)
 Важно!
 Если вы играли ранее с другим модом, то перенесите самостоятельно содержимое из папки %USERPROFILE%\Saved Games\Diablo II Resurrected\mods\ВАШ_МОД в папку %USERPROFILE%\Saved Games\Diablo II Resurrected\mods\BlizzlessLikeMod.
 
-4. В параметры запуска игры добавляем:
+3. В параметры запуска игры добавляем:
 -mod BlizzlessLikeMod -txt
 Если хотите, чтобы в оффлайн у вас были бесконечные респеки (для тестирования билдов), параметры запуска такие:
 -mod BlizzlessLikeMod -txt -enablerespec
 
-5. Запускаем игру!
+4. Запускаем игру!
 
 Изменения:
 - Пропуск вступительных видеороликов при запуске игры

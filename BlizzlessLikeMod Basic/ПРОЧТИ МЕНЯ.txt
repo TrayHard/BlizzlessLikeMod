@@ -1,6 +1,6 @@
 BlizzlessLikeMod (basic edition)
 ---
-Версия: 1.0
+Версия: 1.0.1
 ---
 Установка:
 1. Кидаем папку mods рядом с D2R.exe.
